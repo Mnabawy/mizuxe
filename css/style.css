@@ -1,0 +1,41 @@
+.navbar-brand{
+    display: flex;
+    justify-content: space-between;
+
+}
+.ml-auto{
+    font-size: 1.3rem;
+   
+}
+
+
+.navbar{
+    box-shadow: 0px 0px 5px gray;
+    background: white;
+    opacity: .8;
+    position:sticky;
+}
+#About{
+    margin-top: 100px
+}
+#showcase{
+    background: url('../img/mountains.jpg') no-repeat;
+    background-size: cover;
+    
+}
+.blue-overlay{
+    background: rgba(53, 178, 209, 0.4);
+}
+.btn-blue{
+    background: rgba(53, 178, 209, 0.1);
+    border: 0px;
+    box-shadow: 0px;
+    color: whitesmoke;
+}
+.card:hover{
+    background: rgb(52, 168, 207);
+    color: white;
+}
+    .fa:hover{
+    color:white;
+}
